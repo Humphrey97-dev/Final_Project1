@@ -1,7 +1,7 @@
 # Disease Outbreak Prediction System
 # SDG 3: Good Health and Well-being
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: [Humphrey Wambu]
+# Date: [25th july 2025]
 
 import pandas as pd
 import numpy as np
